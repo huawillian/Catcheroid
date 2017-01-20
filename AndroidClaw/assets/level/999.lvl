@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>    
+    <entity x="0" y="0" type="background"/>
+    <entity x="0" y="0" type="claw"/>
+    <entity x="55" y="80" type="prize1"/>
+    <entity x="5" y="100" type="prize2"/>
+    <entity x="25" y="70" type="prize3"/>
+    <entity x="75" y="85" type="prize4"/>
+    <entity x="60" y="60" type="prize1"/>
+    <entity x="90" y="65" type="prize2"/>
+    <entity x="30" y="95" type="prize3"/>
+    <entity x="40" y="85" type="prize4"/>
+</level>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>    
+    <entity x="0" y="0" type="background"/>
+    <entity x="0" y="0" type="claw"/>
+    <entity x="55" y="80" type="prize1"/>
+</level>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>  
+    <entity x="5" y="100" type="prize2"/>
+    <entity x="25" y="70" type="prize3"/>
+    <entity x="75" y="80" type="prize4"/>
+    <entity x="10" y="30" type="bar"/>
+    
+</level>

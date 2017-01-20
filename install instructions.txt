@@ -1,0 +1,20 @@
+Willian Hua
+
+How to build/install/run
+
+Catcheroid project is located inside 
+
+
+"AndroidClaw"
+
+
+folder. 
+
+
+You may open this project directory in eclipse, although you will be given errors on missing library references. To fix these errors, you will need to open up AndEngine and its extensions in eclipse, and then set the library properties for AndroidClaw to use those libraries. 
+
+To install the app itself, you can open up the AndroidClaw folder. The apk file is located in [AndroidClaw]/bin/ directory as AndroidClaw.apk. Move this to the Android device. Install by going to the file manager on the device and selecting the apk.
+
+Additionally, you may also use adb (Android Debugger Bridge) to install to the Android device via command line.
+
+Once installed, you open the app from the device's app list.
